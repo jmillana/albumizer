@@ -1,0 +1,2 @@
+# albumizer
+Image managment simplified
